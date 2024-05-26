@@ -1,0 +1,14 @@
+C:\Users\julio\source\repos\Colas\Colas\bin\Debug\net8.0\Colas.exe
+C:\Users\julio\source\repos\Colas\Colas\bin\Debug\net8.0\Colas.deps.json
+C:\Users\julio\source\repos\Colas\Colas\bin\Debug\net8.0\Colas.runtimeconfig.json
+C:\Users\julio\source\repos\Colas\Colas\bin\Debug\net8.0\Colas.dll
+C:\Users\julio\source\repos\Colas\Colas\bin\Debug\net8.0\Colas.pdb
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\Colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\Colas.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\Colas.AssemblyInfo.cs
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\Colas.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\Colas.dll
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\refint\Colas.dll
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\Colas.pdb
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\Colas.genruntimeconfig.cache
+C:\Users\julio\source\repos\Colas\Colas\obj\Debug\net8.0\ref\Colas.dll

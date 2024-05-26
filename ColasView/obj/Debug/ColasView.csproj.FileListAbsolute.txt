@@ -1,0 +1,10 @@
+C:\Users\julio\source\repos\Colas\ColasView\bin\Debug\ColasView.exe.config
+C:\Users\julio\source\repos\Colas\ColasView\bin\Debug\ColasView.exe
+C:\Users\julio\source\repos\Colas\ColasView\bin\Debug\ColasView.pdb
+C:\Users\julio\source\repos\Colas\ColasView\obj\Debug\ColasView.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Colas\ColasView\obj\Debug\ColasView.Form1.resources
+C:\Users\julio\source\repos\Colas\ColasView\obj\Debug\ColasView.Properties.Resources.resources
+C:\Users\julio\source\repos\Colas\ColasView\obj\Debug\ColasView.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\Colas\ColasView\obj\Debug\ColasView.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Colas\ColasView\obj\Debug\ColasView.exe
+C:\Users\julio\source\repos\Colas\ColasView\obj\Debug\ColasView.pdb

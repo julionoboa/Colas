@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colas", "Colas\Colas.csproj", "{F2B0F523-91F5-4602-AB04-837D82CF9E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColasView", "ColasView\ColasView.csproj", "{6AD1EAD5-0816-4D83-BFA4-7C90A5FAB9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColasView2", "ColasView2\ColasView2.csproj", "{83840ACC-24E5-4C85-984C-5F2A0C45654B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B0F523-91F5-4602-AB04-837D82CF9E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B0F523-91F5-4602-AB04-837D82CF9E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B0F523-91F5-4602-AB04-837D82CF9E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B0F523-91F5-4602-AB04-837D82CF9E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD1EAD5-0816-4D83-BFA4-7C90A5FAB9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD1EAD5-0816-4D83-BFA4-7C90A5FAB9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD1EAD5-0816-4D83-BFA4-7C90A5FAB9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD1EAD5-0816-4D83-BFA4-7C90A5FAB9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83840ACC-24E5-4C85-984C-5F2A0C45654B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83840ACC-24E5-4C85-984C-5F2A0C45654B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83840ACC-24E5-4C85-984C-5F2A0C45654B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83840ACC-24E5-4C85-984C-5F2A0C45654B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F7640B-D4FD-4B65-AF3D-45B989EA8673}
+	EndGlobalSection
+EndGlobal
